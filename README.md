@@ -8,11 +8,11 @@ This repository consists of projects that I have done whilst pursuing my masters
 - created an Shiny app
 
 # Portfolio Projects
-### Effects of the COVID-19 pandemic on businesses patterns of the retail sector
-**Code:**  <br />
-**HTML file:** (Please download the html file to view the interactive charts.) <br />
+### Effects of the COVID-19 pandemic on businesses patterns
+**Code:**  [EffectOfCovid19onUKRetailBusinesses.ipynb](https://github.com/ngyiling/Data-Science-Portfolio/blob/main/EffectOfCovid19onUKRetailBusinesses.ipynb) <br />
+**HTML file:** [EffectOfCovid19onUKRetailBusinesses.html](https://github.com/ngyiling/Data-Science-Portfolio/blob/main/EffectOfCovid19onUKRetailBusinesses.html) (Please download the html file to view the interactive charts.) <br />
 **Description:** This is an individual project to utilise data visualisation tools to understand the impact of the pandemic on business foundation patterns. The data have been obtained from the Companies House data repository, which is a series of compressed folders comprising firm-level attributes. 
 Link: http://download.companieshouse.gov.uk/en_output.html <br />
-**Technology:** Pandas, Geopandas, Geopy, Plotly
-**Results:** ff <br />
+**Technology:** Pandas, Geopandas, Geopy, Plotly <br />
+**Results:** A bar chart showing an overview number of incorporation of all sectors in 2019 and 2020, an interactive chart explaining how covid casses affect business incorporation in the UK from 2019 to 2020, and an interactive map showing the locations of new retail companies' in London before and after the pandemic. <br />
  
