@@ -15,6 +15,7 @@ Through my projects, I developed proficiency in Python, R programming and SQL, a
 <img align="left" alt="GitHub" width="26px" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" />
 <img align="left" alt="sql" width="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
 
+<br />
 
 # Portfolio Projects
 ### Project 1: Effects of the COVID-19 pandemic on businesses patterns
