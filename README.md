@@ -8,15 +8,13 @@ Through my projects, I am now able to carry out tasks, such as:
 - uncover patterns and insights
 - communicate crtical findings with stakeholders 
 
+
 ## Languages and Tools: 
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="R" width="27px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" alt="vscode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="GitHub" width="26px" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" />
 <img align="left" alt="sql" width="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
-
-Web scraping 
-
 
 
 # Portfolio Projects
@@ -34,4 +32,9 @@ Web scraping
 **Technology:** TetxBlob, Numpy, Pandas, Scikit-learn, Scipy <br />
 **Results:** Three statistical charts illustrating the effect of music, duration and sentiment on the popularity of TikTok videos.<br />
 
- 
+ ### Project 3: Predicting wind turbine operating mode based on two series data from 2 sensors using RNN and CNN
+ **Code:** <br />
+ **h5 file of the best model:** <br />
+ **Description:** This is an individual project to predict a wind turbine operating mode based on time series data from 2 sensors. Various models including Recurrent Neural Network (RNN) and Convolutional Neural Network (CNN) models have been used to identify the best performing model. The project has been guided by the [article on "CNN fault classification based on time series analysis for wind turbine machine" by Rahimilarki, Gao, Jin, and Zhang (2022).](https://www.sciencedirect.com/science/article/abs/pii/S0960148121017778) <br />
+ **Technology:** Pandas, Matplotlib, Scikit-learn, Tensorflow, Tensorflow.keras <br />
+ **Results:** In addition to training different models including GRU, LTSM, 1D CNN and 2D CNN, the models convolutional layers, epochs, and learning rate have been optimised to obtain accuracies of above 80%. The best model identified was the 2D CNN with three convolutional layers due to its higher accuracy and lower training loss. The final model gave a test accuracy score of 0.91 and a loss of 0.23. 
