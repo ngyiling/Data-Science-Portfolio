@@ -5,5 +5,5 @@ This repository consists of projects that I have done whilst pursuing my masters
 - Able to conduct web scraping using BeautifulSoup, Scrapy, Selenium, Twint API, Tweepy API, Reddit API 
 
 # R
-- created a Shiny app
+- created an Shiny app
 
