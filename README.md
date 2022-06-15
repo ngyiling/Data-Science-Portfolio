@@ -26,11 +26,9 @@ Through my projects, I developed proficiency in Python, R programming and SQL, a
 **Results:** A bar chart showing an overview number of incorporation of all sectors in 2019 and 2020, an interactive chart explaining how covid casses affect business incorporation in the UK from 2019 to 2020, and an interactive map showing the locations of new retail companies' in London before and after the pandemic. <br />
 
 ### Project 2: What makes TikTok' videos popular?
-**Code:** [`TikTok.py`](https://github.com/ngyiling/Data-Science-Portfolio/blob/main/TikTok.py) <br />
-**Presentation:** [`TikTok_Presentation.pdf`](https://github.com/ngyiling/Data-Science-Portfolio/blob/main/TikTok_Presentation.pdf) <br />
-**Description:** This project was conducted as a group of 4 students. We utilised Python to analyse the [TikTok Trending Videos](https://user-images.githubusercontent.com/72058781/172881986-adfa0eab-28e0-447e-97e3-eed1fb4a5448.png) dataset and produce three statistical charts that complement an article for the printed version of the New York Times on 'what makes TikTok' videos (super-)popular!'. <br />
+**Repository:** [`TikTok.py`](https://github.com/ngyiling/popular-tiktok-videos-visualisation) <br />
+**Description:** Data visualisation to reveal the underlying patterns of popular TikTok videos.
 **Technology:** TetxBlob, Numpy, Pandas, Scikit-learn, Scipy <br />
-**Results:** Three statistical charts illustrating the effect of music, duration and sentiment on the popularity of TikTok videos.<br />
 
  ### Project 3: Time series prediction using RNN and CNN
  **Code:** [`TimeSeriesPrediction.ipynb`](https://github.com/ngyiling/Data-Science-Portfolio/blob/main/TimeSeriesPrediction.ipynb)<br />
