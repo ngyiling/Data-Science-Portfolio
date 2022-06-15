@@ -41,14 +41,14 @@ Through my projects, I developed proficiency in Python, R programming and SQL, a
 **Description:** A group work to analyse the interpersonal relationships among directors and casts in movies produced in the UK between 2019 and 2021, whereby the relationship in the network is refered to the knowledge exchange in the form of collaboration among directors and casts.  <br />
 **Technology:** Networkx, Matplotlib, Wordcloud, Pandas, NumPy <br />
  
- ### Project 5: Machine Learning Shiny App
- **Repository:** To-update <br />
- **Description:** This is a group project to xx <br />
- **Technology:** R Shiny <br />
+ ### Project 5: Machine Learning Shiny App (R)
+ **Repository:** [`Shiny App ML`](https://github.com/ngyiling/shiny-app-ML) <br />
+ **Description:** A Shiny app showing the differences between the prediction outcome of two classifiers: Decision Tree (DT) and Random Forest (RF). The dataset consists of direct marketing campaigns of a Portuguese bank, and the goal is to predict whether clients will subscribe ('yes') or not ('no') to a term deposit based on phone calls to them. <br />
+ **Technology:** Shiny, Caret, Dplyr, Rattle <br />
 <br />
  
  ### Project 6: Customer segmentation using Machine Learning <br />
- **Repository:** To-update <br />
+ **Repository:** xxx <br />
  **Description:** This is a group project to xx <br />
  **Technology:** xx <br />
  **Results:** xx <br />
