@@ -27,7 +27,7 @@ Through my projects, I developed proficiency in Python, R programming and SQL, a
 
 ### Project 2: What makes TikTok' videos popular?
 **Repository:** [`TikTok.py`](https://github.com/ngyiling/popular-tiktok-videos-visualisation) <br />
-**Description:** Data visualisation to reveal the underlying patterns of popular TikTok videos.
+**Description:** Data visualisation to reveal the underlying patterns of popular TikTok videos. <br />
 **Technology:** TetxBlob, Numpy, Pandas, Scikit-learn, Scipy <br />
 
  ### Project 3: Time series prediction using RNN and CNN
