@@ -37,19 +37,23 @@ Through my projects, I developed proficiency in Python, R programming and SQL, a
  **Results:** In addition to training different models including GRU, LTSM, 1D CNN and 2D CNN, the models convolutional layers, epochs, and learning rate have been optimised to obtain accuracies of above 80%. The best model identified was the 2D CNN with three convolutional layers due to its higher accuracy and lower training loss. The final model gave a test accuracy score of 0.91 and a loss of 0.23. <br />
  
 ### Project 4: Network analysis of directors and casts on Netflix 
-**Code:** To-update <br />
-**Description:** A group work to investigate the interpersonal networks among casts and directors in UK movies on Netflix. <br />
-**Technology:** Pandas <br />
-**Results:** Identified communities, relationships among communities and individuals, and individuals who are highly influencial. Recognise strong homophily in the network.
+**Repository:** [`Netflix Network Analysis`](https://github.com/ngyiling/netflix-network-analysis) <br />
+**Description:** A group work to analyse the interpersonal relationships among directors and casts in movies produced in the UK between 2019 and 2021, whereby the relationship in the network is refered to the knowledge exchange in the form of collaboration among directors and casts.  <br />
+**Technology:** Networkx, Matplotlib, Wordcloud, Pandas, NumPy <br />
+
+
+ <br />
+<br/>
+**Technology:** Networkx, Matplotlib, Wordcloud, Pandas, NumPy <br />
  
  ### Project 5: Machine Learning Shiny App
- **Code:** To-update <br />
+ **Repository:** To-update <br />
  **Description:** This is a group project to xx <br />
  **Technology:** R Shiny <br />
- **Results:** xx <br />
+<br />
  
  ### Project 6: Customer segmentation using Machine Learning <br />
- **Code:** To-update <br />
+ **Repository:** To-update <br />
  **Description:** This is a group project to xx <br />
  **Technology:** xx <br />
  **Results:** xx <br />
