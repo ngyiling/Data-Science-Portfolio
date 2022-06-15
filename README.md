@@ -18,17 +18,16 @@ Through my projects, I developed proficiency in Python, R programming and SQL, a
 <br />
 
 # Portfolio Projects
-### Project 1: Effects of the COVID-19 pandemic on businesses patterns
-**Code:**  [`EffectOfCovid19onUKRetailBusinesses.ipynb`](https://github.com/ngyiling/Data-Science-Portfolio/blob/main/EffectOfCovid19onUKRetailBusinesses.ipynb) <br />
-**HTML file:** [`EffectOfCovid19onUKRetailBusinesses.html`](https://github.com/ngyiling/Data-Science-Portfolio/blob/main/EffectOfCovid19onUKRetailBusinesses.html) (Please download the html file to view the interactive charts.) <br />
-**Description:** This is an individual project to utilise data visualisation tools to understand the impact of the pandemic on business foundation patterns. The [data](http://download.companieshouse.gov.uk/en_output.html) have been obtained from the Companies House data repository, which is a series of compressed folders comprising firm-level attributes.  <br />
+### Project 1: Effects of COVID-19 on UK businesses 
+**Repository:**  [`Companies House Analysis`](https://github.com/ngyiling/companies-house-analysis) <br />
+**Description:** This individual project aims to analyse Companies House data and produce data visualisations, to show the impact of the pandemic on UK business foundation patterns.  <br />
 **Technology:** Pandas, Geopandas, Geopy, Plotly <br />
-**Results:** A bar chart showing an overview number of incorporation of all sectors in 2019 and 2020, an interactive chart explaining how covid casses affect business incorporation in the UK from 2019 to 2020, and an interactive map showing the locations of new retail companies' in London before and after the pandemic. <br />
 
 ### Project 2: What makes TikTok' videos popular?
-**Repository:** [`TikTok.py`](https://github.com/ngyiling/popular-tiktok-videos-visualisation) <br />
-**Description:** Data visualisation to reveal the underlying patterns of popular TikTok videos. <br />
-**Technology:** TetxBlob, Numpy, Pandas, Scikit-learn, Scipy <br />
+**Repository:** [`Popular TikTok Videos Visualisation`](https://github.com/ngyiling/popular-tiktok-videos-visualisation) <br />
+**Description:** This group project aims to analyse 1000 trending TikTok videos and produce data visualisations that explain the underlying pattern of 'what makes TikTok videos popular!'. <br />
+**Technology:** TextBlob, Numpy, Pandas, Scikit-learn, Scipy <br />
+
 
  ### Project 3: Time series prediction using RNN and CNN
  **Code:** [`TimeSeriesPrediction.ipynb`](https://github.com/ngyiling/Data-Science-Portfolio/blob/main/TimeSeriesPrediction.ipynb)<br />
