@@ -40,11 +40,6 @@ Through my projects, I developed proficiency in Python, R programming and SQL, a
 **Repository:** [`Netflix Network Analysis`](https://github.com/ngyiling/netflix-network-analysis) <br />
 **Description:** A group work to analyse the interpersonal relationships among directors and casts in movies produced in the UK between 2019 and 2021, whereby the relationship in the network is refered to the knowledge exchange in the form of collaboration among directors and casts.  <br />
 **Technology:** Networkx, Matplotlib, Wordcloud, Pandas, NumPy <br />
-
-
- <br />
-<br/>
-**Technology:** Networkx, Matplotlib, Wordcloud, Pandas, NumPy <br />
  
  ### Project 5: Machine Learning Shiny App
  **Repository:** To-update <br />
