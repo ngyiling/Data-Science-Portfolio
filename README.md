@@ -48,17 +48,17 @@ Through my projects, I developed proficiency in Python, R programming and SQL, a
 <br />
  
  ### Project 6: Customer segmentation using Machine Learning (R) <br />
- **Repository:** [customer](https://github.com/ngyiling/customer-segmentation-ML) <br />
+ **Repository:** [`customer segmentation`](https://github.com/ngyiling/customer-segmentation-ML) <br />
  **Description:** The aim of this project is to utilise Machine Learning to analyse the [customer-personality.csv](https://github.com/ngyiling/customer-segmentation-ML/blob/main/customer-personality.csv) dataset to understand customer behaviours and purchasing patterns. 
 <br />
  **Technology:** dplyr, Hmisc, ggplot2, ggfortify  <br />
 <br />
  
- ### Project 7: Detect fraud in insurance claims using SMOTE, Autoencoder, SMOTE + Decision Tree
- **Code:** xx <br />
- **Description:** This is a group project to xx <br />
- **Technology:** xx <br />
- **Results:** xx <br />
+ ### Project 7: Insurance Claims Fraud Detection
+ **Repository:** [`Insurance claims fraud detection`](https://github.com/ngyiling/Insurance-claims-fraud-detection) <br />
+ **Description:** This project is a fraud classification of an “unbalanced” data set of car insurance claims. The [insurance-claims.csv](https://github.com/ngyiling/Insurance-claims-fraud-detection/blob/main/Insurance_claims.csv) dataset consists of more than 10,000 claims, with only 100 fraudulent claims among all the claims. Pre-processing of the dataset followed by 3 types of classifications: SMOTE, Autoencoder, SMOTE with Decision Tree was carried out to identify the best classification model. <br />
+ **Technology:** sklearn, seaborn, matplotlib, pandas, numpy, tensorflow, keras, SMOTE, imblearn <br />
+
 
 ### Project 8: Two pricing strategies for a UK Highway Toll (Dart Charge)
 **Code:** xx <br />
