@@ -31,7 +31,7 @@ Through my projects, I developed proficiency in Python, R programming and SQL, a
 
  ### Project 3: Prediction of wind turbine operating mode
  **Repository:** [`Wind Turbine Operating Mode Predictions`](https://github.com/ngyiling/wind-turbine-operating-mode-prediction) <br />
- **Description:** This is an individual project to predict a wind turbine operating mode based on time series data from 2 sensors. Various models including Recurrent Neural Network (RNN) and Convolutional Neural Network (CNN) models have been used to identify the best performing model. The project has been guided by the [article on "CNN fault classification based on time series analysis for wind turbine machine" by Rahimilarki, Gao, Jin, and Zhang (2022).](https://www.sciencedirect.com/science/article/abs/pii/S0960148121017778) <br />
+ **Description:** This is an individual project to predict a wind turbine operating mode based on time series data from 2 sensors. Various models including Recurrent Neural Network (RNN) and Convolutional Neural Network (CNN) models have been used to identify the best performing model. <br />
  **Technology:** Pandas, Matplotlib, Scikit-learn, Tensorflow, Tensorflow.keras <br />
  
 ### Project 4: Network analysis of directors and casts on Netflix 
