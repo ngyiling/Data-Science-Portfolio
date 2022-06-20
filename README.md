@@ -47,11 +47,12 @@ Through my projects, I developed proficiency in Python, R programming and SQL, a
  **Technology:** Shiny, Caret, Dplyr, Rattle <br />
 <br />
  
- ### Project 6: Customer segmentation using Machine Learning <br />
- **Repository:** xxx <br />
- **Description:** This is a group project to xx <br />
- **Technology:** xx <br />
- **Results:** xx <br />
+ ### Project 6: Customer segmentation using Machine Learning (R) <br />
+ **Repository:** [customer](https://github.com/ngyiling/customer-segmentation-ML) <br />
+ **Description:** The aim of this project is to utilise Machine Learning to analyse the [customer-personality.csv](https://github.com/ngyiling/customer-segmentation-ML/blob/main/customer-personality.csv) dataset to understand customer behaviours and purchasing patterns. 
+<br />
+ **Technology:** dplyr, Hmisc, ggplot2, ggfortify  <br />
+<br />
  
  ### Project 7: Detect fraud in insurance claims using SMOTE, Autoencoder, SMOTE + Decision Tree
  **Code:** xx <br />
