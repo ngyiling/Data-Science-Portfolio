@@ -29,12 +29,10 @@ Through my projects, I developed proficiency in Python, R programming and SQL, a
 **Technology:** TextBlob, Numpy, Pandas, Scikit-learn, Scipy <br />
 
 
- ### Project 3: Time series prediction using RNN and CNN
- **Code:** [`TimeSeriesPrediction.ipynb`](https://github.com/ngyiling/Data-Science-Portfolio/blob/main/TimeSeriesPrediction.ipynb)<br />
- **h5 file of the best model:** [`best_model.h5`](https://github.com/ngyiling/Data-Science-Portfolio/blob/main/best_model.h5) <br />
+ ### Project 3: Prediction of wind turbine operating mode
+ **Repository:** [`Wind Turbine Operating Mode Predictions`](https://github.com/ngyiling/wind-turbine-operating-mode-prediction) <br />
  **Description:** This is an individual project to predict a wind turbine operating mode based on time series data from 2 sensors. Various models including Recurrent Neural Network (RNN) and Convolutional Neural Network (CNN) models have been used to identify the best performing model. The project has been guided by the [article on "CNN fault classification based on time series analysis for wind turbine machine" by Rahimilarki, Gao, Jin, and Zhang (2022).](https://www.sciencedirect.com/science/article/abs/pii/S0960148121017778) <br />
  **Technology:** Pandas, Matplotlib, Scikit-learn, Tensorflow, Tensorflow.keras <br />
- **Results:** In addition to training different models including GRU, LTSM, 1D CNN and 2D CNN, the models convolutional layers, epochs, and learning rate have been optimised to obtain accuracies of above 80%. The best model identified was the 2D CNN with three convolutional layers due to its higher accuracy and lower training loss. The final model gave a test accuracy score of 0.91 and a loss of 0.23. <br />
  
 ### Project 4: Network analysis of directors and casts on Netflix 
 **Repository:** [`Netflix Network Analysis`](https://github.com/ngyiling/netflix-network-analysis) <br />
@@ -61,7 +59,7 @@ Through my projects, I developed proficiency in Python, R programming and SQL, a
 
 
 ### Project 8: Pricing Strategy of a UK Highway Toll (Dart Charge) (R)
-**Repository:** [Pricing Strategy of a UK Highway Toll](https://github.com/ngyiling/pricing-strategy-of-UK-highway) <br />
+**Repository:** [`Pricing Strategy of a UK Highway Toll`](https://github.com/ngyiling/pricing-strategy-of-UK-highway-toll) <br />
 **Description:** This aim of this project is to carry out price optimisation and capacity allocation of Dartford Crossing, UK - one of the busiest highways M25 in England - in accordance to 3 potential objectives: maximise toll revenue, minimise emissions, or maximise throughput.  <br />
 **Technology:** dplyr, stargazer, lattice, nloptr
 <br />
