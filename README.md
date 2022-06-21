@@ -1,7 +1,7 @@
 # Hi there! I'm Yi Ling 👋
 This repository consists of projects that I have done whilst pursuing my masters in Business Analytics at Bayes Business School. 
 
-Through my projects, I developed proficiency in Python, R programming and SQL, and now I can carry out tasks, such as:
+Through my projects, I developed proficiency in Python, R programming and SQL, and now I can now carry out tasks, such as:
 - carry out data cleaning and preprocessing 
 - web scraping (using BeautifulSoup, Scrapy, Selenium, Twint API, Tweepy API, Reddit API)
 - uncover patterns and insights
