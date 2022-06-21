@@ -1,4 +1,4 @@
-# Hi there! I'm Yi-Ling 👋
+# Hi there! I'm Yi Ling 👋
 This repository consists of projects that I have done whilst pursuing my masters in Business Analytics at Bayes Business School. 
 
 Through my projects, I developed proficiency in Python, R programming and SQL, and now I can carry out tasks, such as:
