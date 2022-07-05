@@ -43,15 +43,14 @@ Through my projects, I developed proficiency in Python, R programming and SQL, a
  **Repository:** [`Shiny App ML`](https://github.com/ngyiling/shiny-app-ML) <br />
  **Description:** A Shiny app showing the differences between the prediction outcome of two classifiers: Decision Tree (DT) and Random Forest (RF). The dataset consists of direct marketing campaigns of a Portuguese bank, and the goal is to predict whether clients will subscribe ('yes') or not ('no') to a term deposit based on phone calls to them. <br />
  **Technology:** Shiny, Caret, Dplyr, Rattle <br />
-<br />
  
  ### Project 6: Customer segmentation using Machine Learning (R) <br />
  **Repository:** [`Customer Segmentation using ML`](https://github.com/ngyiling/customer-segmentation-ML) <br />
  **Description:** The aim of this project is to utilise Machine Learning to analyse the [customer-personality.csv](https://github.com/ngyiling/customer-segmentation-ML/blob/main/customer-personality.csv) dataset to understand customer behaviours and purchasing patterns. 
 <br />
  **Technology:** dplyr, Hmisc, ggplot2, ggfortify  <br />
-<br />
- 
+
+
  ### Project 7: Insurance Claims Fraud Detection
  **Repository:** [`Insurance Claims Fraud Detection`](https://github.com/ngyiling/Insurance-claims-fraud-detection) <br />
  **Description:** This project is a fraud classification of an “unbalanced” data set of car insurance claims. The [insurance-claims.csv](https://github.com/ngyiling/Insurance-claims-fraud-detection/blob/main/Insurance_claims.csv) dataset consists of more than 10,000 claims, with only 100 fraudulent claims among all the claims. Pre-processing of the dataset followed by 3 types of classifications: SMOTE, Autoencoder, SMOTE with Decision Tree was carried out to identify the best classification model. <br />
